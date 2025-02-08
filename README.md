@@ -16,21 +16,30 @@ A simple **task management** application built using **Flutter**, **Riverpod**, 
 ✅ **Real-time Firestore Sync**  
 
 ---
-📂 Download APK
-🔹 Download APK
-(apk/my_task_app.apk)!)
+## 📸 Screenshots
 
-🖼️ Screenshots
-📍 Splash Screen
-<img src="screenshots/splash_screen.png" width="250">
-📍 Login Screen
-<img src="screenshots/login_screen.png" width="250">
-📍 Register Screen
-<img src="screenshots/register_screen.png" width="250">
-📍 Task List
-<img src="screenshots/home_screen.png" width="250">
-📍 Add Task
-<img src="screenshots/addTask_screen.png" width="250">
+###  Splash Screen
+<img src="screenshots/splash_screen.png" width="300"> 
+
+###  Home Screen
+<img src="screenshots/home_screen.png" width="300">  
+
+###  Login Screen
+<img src="screenshots/login_screen.png" width="300">  
+
+###  Register Screen
+<img src="screenshots/register_screen.png" width="300">  
+
+###  Add Task Screen
+<img src="screenshots/addTask_screen.png" width="300">
+
+---
+Download APK
+
+Download the latest APK from the following link:  
+[Download APK](apk/tot_app_v1.apk)
+
+---
 
 ## **🛠️ Technologies Used**
 - **Flutter** (Latest Version)
