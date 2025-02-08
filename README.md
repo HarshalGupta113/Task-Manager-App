@@ -37,7 +37,7 @@ A simple **task management** application built using **Flutter**, **Riverpod**, 
 Download APK
 
 Download the latest APK from the following link:  
-[Download APK](apk/tot_app_v1.apk)
+[Download APK](apk/my_task.apk)
 
 ---
 
