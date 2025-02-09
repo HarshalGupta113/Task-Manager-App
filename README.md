@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** file for your **Task Manager App**:
-
----
-
 # **📌 Task Manager App**
 
 A simple **task management** application built using **Flutter**, **Riverpod**, **Firebase Authentication**, and **Firestore**. Users can **add, edit, delete, and filter tasks** while keeping their data synced across devices.
